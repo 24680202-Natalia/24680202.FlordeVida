@@ -4,12 +4,11 @@
 
 ### 1. Instalar y abrir Blender
 *   **Descarga Blender:** Si no lo tienes, bájalo en [blender.org](https://www.blender.org).
-  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fe9ae97-a89b-45b3-8097-99914321cfe4" />
+  <img width="1890" height="902" alt="image" src="https://github.com/user-attachments/assets/e8ffecad-3a0d-464b-ae05-38749a1b0e7d" />
 
 *   **Abre el entorno:** Inicia Blender y haz clic en la pestaña **Scripting** en el menú superior.
 *   **Nuevo Script:** Haz clic en el botón **+ New** para abrir un editor de texto vacío.
-  <img width="1890" height="902" alt="image" src="https://github.com/user-attachments/assets/e8ffecad-3a0d-464b-ae05-38749a1b0e7d" />
-
+    <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fe9ae97-a89b-45b3-8097-99914321cfe4" />
 
 ### 2. El Código (Automatizado con Bucle)
 Copia y pega el siguiente código en el editor de Blender. Este script utiliza un ciclo para calcular las posiciones matemáticas de cada círculo sin tener que repetir líneas de código.
